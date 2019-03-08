@@ -45,7 +45,7 @@
   },
   {
     "_id": 101,
-    "email": "@nwmissouri.edu",
+    "email": "@nwmissouri.edu"
 
   },
   {
@@ -461,7 +461,7 @@
   },
   {
     "_id": 307,
-    "email": S534571"@nwmissouri.edu",
+    "email": "S534571@nwmissouri.edu",
 	"given": "Prashanth",
     "family": "Nachannagari",
     "city": "Maryville",
@@ -565,7 +565,7 @@
   },
   {
     "_id": 324,
-    "email": "@nwmissouri.edu"
+    "email": "@nwmissouri.edu",
     "given": "Chitralekha",
     "family": "Chikku",
     "city": "Maryville",

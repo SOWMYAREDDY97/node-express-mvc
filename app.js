@@ -13,7 +13,7 @@ const server = http.createServer(app)  // pass in the Express app to our http se
 const path = require('path')
 
 const hostname = '0.0.0.0'    // allows access from remote computers
-const port = 3004;
+const port = 3008;
 
 // initialize data ............................................
 require('./utils/seeder.js')(app)  // load seed data
